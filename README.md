@@ -27,8 +27,8 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution URL](https://www.frontendmentor.io/solutions/first-coding-experience-after-learning-the-basics-profile-card-comp-UHaanzfyq)
+- Live Site URL: [Github hosted page](https://evoke0.github.io/FEM-ProfileCardComp/)
 
 ## My process
 
