@@ -6,6 +6,7 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 - [Overview](#overview)
   - [The challenge](#the-challenge)
+  - [Screenshot](#screenshot)
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
@@ -19,6 +20,10 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 ### The challenge
 
 - Build out the project to the designs provided
+
+### Screenshot
+
+![](/design/my-own-desing.jpeg)
 
 ### Links
 
@@ -51,5 +56,5 @@ I loved playing with the z-index property, so I definitely want to do some respo
 
 ## Author
 
-- Website - [evoke0](https://evoke0.github.io/FEM-ProfileCardComp/)
-- Frontend Mentor - [@evoke0](https://www.frontendmentor.io/profile/evoke0)
+- Website - [click here](https://evoke0.github.io/FEM-ProfileCardComp/)
+- Frontend Mentor Profile- [click here](https://www.frontendmentor.io/profile/evoke0)
